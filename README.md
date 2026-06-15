@@ -79,9 +79,10 @@ Logistic Regression 88%
 Naive Bayes 86% 
 KNN 78.5%
 
-Best Performing Model
+Best Performing Models
 
-**Logistic Regression** achieved the best overall performance with 88% accuracy.
+- Logistic Regression achieved the highest overall accuracy (88%).
+- Naive Bayes achieved the highest precision (81.1%), making it more suitable when minimizing false approvals is important.
 
 Technologies Used
 
